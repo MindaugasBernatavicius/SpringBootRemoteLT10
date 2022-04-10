@@ -1,0 +1,10 @@
+GET http://localhost/api/blogposts
+Accept: application/json
+
+###
+POST http://localhost/api/blogposts
+Content-Type: application/json
+
+{"id":5,"title":"YYY","text":"XXX"}
+
+
