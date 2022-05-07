@@ -1,4 +1,4 @@
-package cf.mindaugas.springbootremotelt10;
+package cf.mindaugas.springbootremotelt10.service;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
